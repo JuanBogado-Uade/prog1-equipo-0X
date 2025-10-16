@@ -21,7 +21,7 @@
 - `style: format code with prettier`
 - `refactor(components): extract reusable button component`
 
-⚙️ Tecnologías
+⚙️ Stack y herramientas
 	•	Backend (Python)
 	•	FastAPI (API REST)
 	•	JSON para almacenamiento
