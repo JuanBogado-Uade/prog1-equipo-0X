@@ -1,0 +1,92 @@
+{
+  "teams": [
+    {
+      "id": "bc8918c953d44fe5b0afcad6f53404f6",
+      "name": "River Plate",
+      "titulares": [
+        "Armani",
+        "Herrera",
+        "Paulo Díaz",
+        "Enzo Díaz",
+        "Casco",
+        "Aliendro",
+        "Enzo Pérez",
+        "Nacho Fernández",
+        "Barco",
+        "Borja",
+        "Colidio"
+      ],
+      "suplentes": [
+        "Lanzini",
+        "Rondón",
+        "Echeverri"
+      ]
+    },
+    {
+      "id": "e7ec6fb0fa9f4a0590ff52b1d9d442a8",
+      "name": "Boca Juniors",
+      "titulares": [
+        "Sergio Romero",
+        "Luis Advíncula",
+        "Nicolás Figal",
+        "Marcos Rojo",
+        "Frank Fabra",
+        "Cristian Medina",
+        "Ezequiel Fernández",
+        "Kevin Zenón",
+        "Equi Fernández",
+        "Edinson Cavani",
+        "Miguel Merentiel"
+      ],
+      "suplentes": [
+        "Jorman Campuzano",
+        "Luca Langoni",
+        "Norberto Briasco"
+      ]
+    },
+    {
+      "id": "bbd95bf1f0154f36895499bcf7de00d6",
+      "name": "Racing Club",
+      "titulares": [
+        "Gabriel Arias",
+        "Gastón Martirena",
+        "Nazareno Colombo",
+        "Gabriel Rojas",
+        "Agustín García Basso",
+        "Juan Nardoni",
+        "Aníbal Moreno",
+        "Baltasar Rodríguez",
+        "Roger Martínez",
+        "Johan Carbonero",
+        "Maximiliano Romero"
+      ],
+      "suplentes": [
+        "Emiliano Vecchio",
+        "Jonathan Gómez",
+        "Tomás Chancalay"
+      ]
+    },
+    {
+      "id": "388420ef9fc2469d9eb19692e77849c2",
+      "name": "Estudiantes de la Plata",
+      "titulares": [
+        "Matías Mansilla",
+        "Eros Mancuso",
+        "Zaid Romero",
+        "Federico Fernández",
+        "Gastón Benedetti",
+        "Enzo Pérez",
+        "Fernando Zuqui",
+        "José Sosa",
+        "Javier Altamirano",
+        "Guido Carrillo",
+        "Javier Correa"
+      ],
+      "suplentes": [
+        "Lucas Blondel",
+        "Esteban Valdez",
+        "Sebastian Verde"
+      ]
+    }
+  ]
+}

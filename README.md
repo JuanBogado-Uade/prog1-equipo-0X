@@ -21,7 +21,7 @@
 - `style: format code with prettier`
 - `refactor(components): extract reusable button component`
 
-⚙️ Tecnologías
+⚙️ Stack y herramientas
 	•	Backend (Python)
 	•	FastAPI (API REST)
 	•	JSON para almacenamiento
@@ -35,3 +35,4 @@
 	•	Componentes para equipos, fixture, resultados y tabla de posiciones
 	•	Hooks (useState, useEffect) para manejar estado y efectos
 	•	Renderizado dinámico de datos en tablas
+Ejecutar app: uvicorn app.main:app --reload
