@@ -124,8 +124,8 @@ def home():
             "Santino Ianeo"
         ],
         "titulo_proyecto": "Fixture y Tabla de Posiciones para Torneos de Fútbol",
-        "curso": "Programación 1",
-        "materia": "Sistemas de Administración",
+        "curso": "Algoritmos 2",
+        "materia": "Algoritmos y Estructuras de Datos",
         "tecnologias": {
             "backend": "FastAPI (Python)",
             "frontend": "React",
